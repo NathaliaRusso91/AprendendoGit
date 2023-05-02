@@ -39,3 +39,11 @@ Iremos começar novamente pelos comandos do git, iniciando-se pelo git add, como
 
 Logo verá, que irá aparecer em verde que foi criado uma nova file em vermelho, os arquivos que foram modificados.
 Depois deste passo, iremos utilizar o git commit -m "frase de sua preferencia" e dar o enter, lembrando que, a frase tem que ser objetiva para o proximo que ver o codigo, ou até mesmo voce, poder entender o que foi modificado.
+
+Em seguida, voce precisa empurra este arquivo de volta ao github, desta forma, irá escrever o seguinte comando, git push "palavra escolhida anteriomente" main, o "-u" não é mais necessario, pois, é utilizado apenas na primeira conexão, lembre de sempre salvar antes de seguir estes passos, após o comando ser executado, volte a sua pagina do github e atualize, verá que as atualizações foram para o site.
+
+Para criar uma nova branch, nós usamos o comando git checkout -b "nome da branch", dessa forma iremos trabalhar em outra branch e não faremos alteração nas anteriores.
+
+Após criar a nova branch e fazer criações necessarias, seguimos aquele mesmo processo para encaminha-lo ao github, para voltarmos para a branch antiga, podemos utilizar o codigo mais simplificado, ficando da seguinte forma, git checkout "nome da antiga branch".
+
+Em seguida, podemos, por exemplo, juntar as duas branches, utilizando o seguinte comando git merge novo-botão, e dar enter.
