@@ -46,4 +46,8 @@ Para criar uma nova branch, nós usamos o comando git checkout -b "nome da branc
 
 Após criar a nova branch e fazer criações necessarias, seguimos aquele mesmo processo para encaminha-lo ao github, para voltarmos para a branch antiga, podemos utilizar o codigo mais simplificado, ficando da seguinte forma, git checkout "nome da antiga branch".
 
-Em seguida, podemos, por exemplo, juntar as duas branches, utilizando o seguinte comando git merge novo-botão, e dar enter..
+Em seguida, podemos, por exemplo, juntar as duas branches, utilizando o seguinte comando git merge novo-botão, e dar enter, prontinho, voce aprendeu a juntas as branches criadas.
+
+Quando voce baixa um repositorio de alguem, e este projeto sofreu alteração, podemos puxar essas alterações, primeiro, mesmo sem o gitbash aberto direto no projeto, podemos dar o seguinte comando, cd "nome do projeto, e pronto, estaremos atuando direto no projeto que pegamos do github, agora para podermos atualiza-lo, iremos dar o seguinte comando, git pull, e enter, pronto, o projeto baixado, foi atualizado.
+
+Agradeço se leu até aqui, e espero que de certa forma tenha ajudado.
