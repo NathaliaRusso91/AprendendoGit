@@ -4,7 +4,7 @@ Passo a passo para aprender a usar o Git
 
 Primeiro, abra o Git Bash;
 
-Digite git --version, para apenas validar a versão do git (Levarei isso como uma oração sempre que abrir o git pela primeira vez em um equipamento/projeto, em seguida, feche-o,
+Digite git --version, para apenas validar a versão do git (Levarei isso como uma oração sempre que abrir o git pela primeira vez em um equipamento/projeto), em seguida, feche-o,
 
 Segundo, crie uma pasta na area de trabalho com um titulo que defina o projeto que irá iniciar e dentro desta pasta, clique com o botão direito e selecione a opção "Abrir com o code", ele abrirá o VSCode,e está com a pasta que voce criou aberto.
 
